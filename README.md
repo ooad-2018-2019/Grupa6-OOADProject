@@ -41,10 +41,13 @@ Administrator:
 - briše i dodaje nove predstave i informacije o datumu, vremenu i broju dostupnih 
 sjedišta
 - ima uvid u sve informacije i događaje u pozorištu
+
 Registrovani korisnik:
 - ima mogućnost popusta na određene predstave
+
 Neregistrovani korisnik: 
-- mogućnost kreiranja vlastite članske karte 
+- mogućnost kreiranja vlastite članske karte
+
 Blagajnik/prodavač: 
 - naplaćuje uslugu
 - ima mogućnost uvida u sve informacije vezane za predstave
