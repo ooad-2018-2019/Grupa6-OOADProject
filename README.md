@@ -2,9 +2,7 @@
 
 - Tema: Pozorište
 
-- Članovi tima: Amra Lipović
-              Naida Lapo
-              Hasan Hasković
+- Članovi tima: Amra Lipović, Naida Lapo, Hasan Hasković
 
 "Bolje je da gledamo život u pozorištu, nego pozorište u životu“.
 
