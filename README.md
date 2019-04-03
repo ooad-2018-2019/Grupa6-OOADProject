@@ -1,7 +1,8 @@
 # Grupa6-OOADProject
 
-Tema: Pozorište
-Članovi tima: Amra Lipović
+- Tema: Pozorište
+
+- Članovi tima: Amra Lipović
               Naida Lapo
               Hasan Hasković
 
