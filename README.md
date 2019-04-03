@@ -8,7 +8,8 @@
 
 "Bolje je da gledamo život u pozorištu, nego pozorište u životu“.
 
-Opis: 
+
+- Opis: 
 Pozorište je ogledalo života, i ovaj tragičan, tužan i smiješan život, često liči na 
 pozorište i ta se misao kao nevidljiva nit provlači kroz mnoge od predstava.
 Narodno pozorište nudi svojim posjetiocima kvalitetne predstave uz povoljne cijene i 
