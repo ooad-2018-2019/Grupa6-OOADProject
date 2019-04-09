@@ -2,6 +2,8 @@
 
 - Tema: Pozorište
 
+https://www.google.com/search?q=pozoriste&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjpjLry9MLhAhVHMewKHbuxAxAQ_AUIDigB&biw=1536&bih=711#imgrc=1t2LaTiJqdLN7M:
+
 - Članovi tima: Amra Lipović, Naida Lapo, Hasan Hasković
 
 "Bolje je da gledamo život u pozorištu, nego pozorište u životu."
